@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Aimaak aka Yann
+- 👋 Hi, I’m @Aimaak aka Yann. I've been a developer for 4 years, working mainly with PHP
 - 👀 I’m interested in web development, fitness, stand up paddle and travel
-- 🌱 I’m currently learning ReactJS and TypeScript
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on cool projects!
 - 📫 How to reach me : [Twitter](https://twitter.com/Aimaak_)
 
